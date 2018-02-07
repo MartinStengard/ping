@@ -1,5 +1,5 @@
 
-package se.martin.ci.stengard;
+package se.martinstengard;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
