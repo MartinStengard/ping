@@ -7,5 +7,7 @@ package se.martinstengard.conversions.temperature;
 
 public enum Scale {
     Celsius,
-    Fahrenheit
+    Fahrenheit,
+    Kelvin,
+    Rankine
 }
